@@ -16,8 +16,8 @@ export default function handler(req, res) {
       owner: "BimxyzDev",
       repo: "gabut-doang-wkwkwk",
 
-      userFile: "api/user.js",   // file akun user
-      panelFile: "api/panel.js"  // file pengaturan panel
+      userFile: "=/161616/161616/161616/api/user.js",   // file akun user
+      panelFile: "=/161616/161616/161616/api/panel.js"  // file pengaturan panel
     },
 
     login: {
